@@ -60,7 +60,7 @@ int factorial(int n) {
 ### Python
 ```python
 def factorial(n):
-    i = n
+    i = n - 1
     while i > 0:
         n = n * i
         i -= 1

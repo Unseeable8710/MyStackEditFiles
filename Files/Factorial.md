@@ -12,18 +12,18 @@ $$f(x)=\prod^x_{n=1}{n}$$
 
 #### Examples
 
-$f(6)=1\cdot2\cdot3\cdot4\cdot5\cdot6=720\\\\
-f(4)=1\cdot2\cdot3\cdot4=24\\\\
+$f(6)=1\cdot2\cdot3\cdot4\cdot5\cdot6=720\\
+f(4)=1\cdot2\cdot3\cdot4=24\\
 f(10)=1\cdot2\cdot3\cdot4\cdot5\cdot6\cdot7\cdot8\cdot9\cdot10=3,628,800$
 
 ### Recursive formula
 
-$$f(x)=x\cdot f(x-1)\\\\
+$$f(x)=x\cdot f(x-1)\\
 f(1)=1$$
 
 #### Examples
 
-$f(2)=2\cdot f(1)=2\cdot1=2\\\\
+$f(2)=2\cdot f(1)=2\cdot1=2\\
 f(5)=5\cdot f(4)=5\cdot4\cdot f(3)=5\cdot4\cdot3\cdot f(2)=5\cdot4\cdot3\cdot2\cdot f(1)=5\cdot4\cdot3\cdot2\cdot1=120$
 
 ## Coding
